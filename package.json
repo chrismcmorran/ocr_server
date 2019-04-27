@@ -11,5 +11,6 @@
     "express": "^4.16.4",
     "express-fileupload": "^1.1.4",
     "tesseract.js": "^1.0.14"
-  }
+  },
+  "scripts": {"start": "node index.js"}
 }
